@@ -31,3 +31,6 @@ Note:
 2.	Make sure you are using correct Git folder in power shell 
 	the correct Git folder will have hidden folder with name ".git"
 
+
+Use Git UI from windows explorer to commit changes.
+
