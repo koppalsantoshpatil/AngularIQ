@@ -1,0 +1,23 @@
+Steps to Create repository on Git
+
+1.	Signup on Git 
+2.	Create repository "AngularIQ"
+3.	Download Git for Windows and install
+4.	Open Windows Power shell using "Windows Key + x" then I key
+5.	Create directory/folder on C:\Prjects\AngularIQ
+6.	In power shell do CD to folder C:\Prjects\AngularIQ
+7.	give below commands
+
+	git config --global user.name koppalsantoshpatil
+	git config --global user.email koppalsantoshpatil@gmail.com
+
+8. 	Copy the Repository URL from Git website and then in power shell window
+
+	git clone https://github.com/koppalsantoshpatil/AngularIQ.git
+
+9.	After this project will be doqnloaded from Git website to our AngularIQ local folder
+
+10.	Now make chnges to readme.md file and create new text file to push the change to GIT website.
+11.	git commit -m "HelpYourselfwithGitRepository.txt is added"
+12.	git push // at this point git will ask for the password
+
