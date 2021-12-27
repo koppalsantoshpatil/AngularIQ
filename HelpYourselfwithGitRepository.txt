@@ -34,3 +34,10 @@ Note:
 
 Use Git UI from windows explorer to commit changes.
 
+1.	make change to local files 
+2.	open up the GIT UI and put comments in comment box
+3.	click on staged to see if the files you have changed are listed here or not
+4.	click on commit button and staged files will be cleared, i.e they are ready to push
+5.	click on push, UI will show you what all files it is pusing and finally show success message in green color	
+
+
