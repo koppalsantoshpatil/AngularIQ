@@ -18,6 +18,16 @@ Steps to Create repository on Git
 9.	After this project will be doqnloaded from Git website to our AngularIQ local folder
 
 10.	Now make chnges to readme.md file and create new text file to push the change to GIT website.
-11.	git commit -m "HelpYourselfwithGitRepository.txt is added"
+
+11.	git add HelpYourselfwithGitRepository.txt		
+	git commit -m "HelpYourselfwithGitRepository.txt is added"
+
 12.	git push // at this point git will ask for the password
+
+
+Note:
+
+1.	remove your old credentials from windows control panel : Control Panel\User Accounts\Credential Manager
+2.	Make sure you are using correct Git folder in power shell 
+	the correct Git folder will have hidden folder with name ".git"
 
